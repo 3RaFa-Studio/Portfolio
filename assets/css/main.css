@@ -6400,6 +6400,6 @@ body.dark-theme .brand-padding .logos-slide .items:nth-child(odd) img {
 /*# sourceMappingURL=main.css.map */
 /*======================================== our style ==========================*/
 
-.hide-nav-link-arrow ::before{
+.hide-nav-link-arrow::before{
   display: none;
 }
