@@ -2793,13 +2793,13 @@ a.meanmenu-reveal {
 }
 @media only screen and (max-width: 767.98px) {
   .sub-title {
-    font-size: 35px;
+    font-size: 30px;
   }
 }
 
 .name-title {
   color: white;
-  font-size: 78px;
+  font-size: 50px;
   text-transform: uppercase;
 }
 @media only screen and (max-width: 1199.98px) {
@@ -4860,6 +4860,9 @@ ul.text-list {
   padding: 0;
   margin: 0;
   list-style: none;
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
 }
 ul.text-list li {
   position: relative;
